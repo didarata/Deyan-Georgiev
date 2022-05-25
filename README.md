@@ -3,19 +3,19 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=didarata)
 [![Years Badge](https://badges.pufler.dev/years/didarata)](https://badges.pufler.dev)
 
-[![Facebook](https://img.shields.io/badge/-Facebook-00B2FF?style=flat-square&logo=Facebook&logoColor=white)](https://www.facebook.com/kalin.tsenkow/)
-[![Instagram](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/kalintsenkov/) 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kalintsenkov/) 
-[![GitHub](https://img.shields.io/badge/-Github-000000?style=flat-square&logo=Github&logoColor=white)](https://github.com/kalintsenkov)
+[![Facebook](https://img.shields.io/badge/-Facebook-00B2FF?style=flat-square&logo=Facebook&logoColor=white)](https://www.facebook.com/chukolna/)
+[![Instagram](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/deyanphotos/) 
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/deyan-georgiev-478a1b22b/) 
+[![GitHub](https://img.shields.io/badge/-Github-000000?style=flat-square&logo=Github&logoColor=white)](https://github.com/didarata)
 
 ##
 
-- 🌱 I’m currently learning to live myself out the max
-- 🥅 2022 Goals: Contributing to Open Source projects
-- ⚡ Fun fact: I love coding and gaming
-- 💻 I love building cool stuffs
+- 🌱 I’m currently studying for Python Developer at SoftUni
+- 🥅 2022 Goals: Learn the tools to become part of innovative developer team
+- ⚡ Fun fact: AI is coming to take the world and i wanna be part of it
+- 💻 I love computers, science and nature, my days are not wasted if im touch with either of them
 - 💬 Ask me about anything! I am happy to help
-- 📫 Reach me: kalintsenkov3@gmail.com
+- 📫 Reach me: ifdeyan@gmail.com
 
 <p>
   <!-- <summary>:zap: GitHub Stats</summary> -->
