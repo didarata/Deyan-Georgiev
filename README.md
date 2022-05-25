@@ -10,11 +10,11 @@
 
 ##
 
-- 🌱 I’m currently studying for Python Developer at SoftUni
-- 🥅 2022 Goals: Learn the tools to become part of innovative developer team
-- ⚡ Fun fact: AI is coming to take the world and i wanna be part of it
-- 💻 I love computers, science and nature, my days are not wasted if im touch with either of them
-- 💬 Ask me about anything! I am happy to help
+- 🌱 I’m currently studying for Python Developer at SoftUni.
+- 🥅 2022 Goals: Learn the tools to become part of innovative developer team.
+- ⚡ Fun fact: AI is coming to take over the world and i wanna be part of it.
+- 💻 I love computers, science and nature, my days are not wasted if i'm touch with either of them.
+- 💬 Ask me about anything! I am happy to help.
 - 📫 Reach me: ifdeyan@gmail.com
 
 <p>
