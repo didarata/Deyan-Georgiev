@@ -1,4 +1,4 @@
-## Hi there, I'm Deyan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px">
+## Hi there, I'm Deyan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5px">
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=didarata)
 [![Years Badge](https://badges.pufler.dev/years/didarata)](https://badges.pufler.dev)
